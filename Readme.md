@@ -10,7 +10,7 @@
 
 
 ## Project  _**ScreenShot**_ :-
-![Project-2-SS](Screenshot 2023-02-09 at 1.20.30 PM.jpeg)
+![Project-2-SS](Project-2.jpeg)
 
 
 ## Project Link :- 
