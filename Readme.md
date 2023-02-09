@@ -10,7 +10,7 @@
 
 
 ## Project  _**ScreenShot**_ :-
-![Project-2-SS](Project-2.jpeg)
+![Project-2-SS](Project2-SS.jpeg)
 
 
 ## Project Link :- 
